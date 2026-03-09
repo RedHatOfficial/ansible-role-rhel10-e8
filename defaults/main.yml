@@ -40,7 +40,6 @@ auditd_log_format: true
 auditd_name_format: true
 auditd_write_logs: true
 configure_crypto_policy: true
-configure_ssh_crypto_policy: true
 configure_strategy: true
 dir_perms_world_writable_sticky_bits: true
 disable_strategy: true
@@ -71,6 +70,7 @@ no_reboot_needed: true
 package_fapolicyd_installed: true
 package_firewalld_installed: true
 package_rsyslog_installed: true
+package_sequoia_sq_installed: true
 package_squid_removed: true
 package_telnet_removed: true
 package_telnet_server_removed: true
