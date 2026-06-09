@@ -83,6 +83,7 @@ service_auditd_enabled: true
 service_avahi_daemon_disabled: true
 service_fapolicyd_enabled: true
 service_firewalld_enabled: true
+service_kdump_disabled: true
 service_rsyslog_enabled: true
 service_squid_disabled: true
 service_telnet_disabled: true
