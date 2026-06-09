@@ -4,8 +4,7 @@ Australian Cyber Security Centre (ACSC) Essential Eight
 Ansible Role for Australian Cyber Security Centre (ACSC) Essential Eight  
   
 Profile Description:  
-This is a draft profile for experimental purposes.  
-This draft profile contains configuration checks for Red Hat Enterprise Linux 10  
+This profile contains configuration checks for Red Hat Enterprise Linux 10  
 that align to the Australian Cyber Security Centre (ACSC) Essential Eight.  
 A copy of the Essential Eight in Linux Environments guide can be found at the  
 ACSC website:  
